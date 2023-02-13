@@ -1,5 +1,12 @@
+### <p align="center"><img src="https://media.tenor.com/tgzGDcxpjR0AAAAi/patrick-star-sponge-bob-square-pants.gif" width="50px"> 𝐇𝐢! 𝐈 𝐚𝐦 𝐏𝐚𝐭𝐫𝐢𝐤 𝐋𝐮𝐢𝐳 <img src="https://media.tenor.com/tgzGDcxpjR0AAAAi/patrick-star-sponge-bob-square-pants.gif" width="50px"></p>
 
-### Hi there 👋
+<br>
+
+<div align="center">
+  <a href="https://github.com/zPlcs">
+  <img height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=zPlcs&layout=compact&langs_count=7&theme=tokyonight"/> 
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zPlcs&layout=compact&langs_count=7&theme=tokyonight"/>
+</div>
 
 <!--
 **zPlcs/zPlcs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
