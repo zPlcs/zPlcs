@@ -17,7 +17,12 @@
   </div>
   
   ##
-  
+    
+    
+### <p align="center"> 𝗔𝗯𝗼𝘂𝘁 𝗺𝗲! </p>
+    
+    
+  ##
     
 ### <p align="center">  𝗠𝘆 𝗦𝘁𝗮𝘁𝘀! </p>
     
@@ -28,6 +33,15 @@
   
 </div>
 
+  ##
+  
+ ### <p align="center"> 𝗸𝗻𝗼𝘄𝗹𝗲𝗱𝗴𝗲 𝗼𝗳 𝗹𝗮𝗻𝗴𝘂𝗮𝗴𝗲𝘀! </p>
+  
+  <br>
+  <br>
+  <div id="badges" align="center">
+  <img src="https://img.shields.io/badge/-JavaScript-FFFB00?style=for-the-badge&logo=javascript&logoColor=black">
+  </div>
 <!--
 **zPlcs/zPlcs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
