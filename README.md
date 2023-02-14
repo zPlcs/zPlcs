@@ -44,9 +44,13 @@
   
  
   <div id="badges" align="center">
-  <img src="https://img.shields.io/badge/-JavaScript-FFFB00?style=for-the-badge&logo=javascript&logoColor=black"> 
     <img src="https://img.shields.io/badge/c++-044F88?style=for-the-badge&logo=c%2B%2B&logoColor=white"> 
-    <img src="https://img.shields.io/badge/GitHUB-black?style=for-the-badge&logo=github&logoColor=white"> 
-    <img src="https://img.shields.io/badge/-CSharp-A179DC?style=for-the-badge&logo=cSHARP&logoColor=white"> 
     <img src="https://img.shields.io/badge/-C-6758FE?style=for-the-badge&logo=C&logoColor=white">
+    <img src="https://img.shields.io/badge/-CSharp-A179DC?style=for-the-badge&logo=cSHARP&logoColor=white"> 
+    <img src="https://img.shields.io/badge/-Css3-2965f1?style=for-the-badge&logo=css3&logoColor=white">
+    <img src="https://img.shields.io/badge/GitHUB-black?style=for-the-badge&logo=github&logoColor=white"> 
+    <img src="https://img.shields.io/badge/-html5-e34c26?style=for-the-badge&logo=html5&logoColor=white">
+  <img src="https://img.shields.io/badge/-JavaScript-FFFB00?style=for-the-badge&logo=javascript&logoColor=black"> 
+
+    
   </div>
