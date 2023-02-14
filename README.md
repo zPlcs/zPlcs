@@ -24,11 +24,11 @@
  
     
 <p align="center"> 
-  | Trabalhando como Auxiliar de Assitência Técnica.<br>
-  | Esutudante de Sistemas de Informação.<br>
-  | Entusiasta de tecnologia.<br>
-  | Futuro Dev Full Stack.<br>
-  | Estudando novas linguagens. </p>
+  | Trabalhando como Auxiliar de Assitência Técnica | <br> 
+  | Esutudante de Sistemas de Informação |<br>
+  | Entusiasta de tecnologia |<br>
+  | Futuro Dev Full Stack |<br>
+  | Estudando novas linguagens | </p>
  
     
   ##
