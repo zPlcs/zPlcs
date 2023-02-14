@@ -21,8 +21,8 @@
 ### <p align="center"> 𝗔𝗯𝗼𝘂𝘁 𝗺𝗲! <br><br></p>
     
 <p align="center"> 
-🔌 | Trabalhando como Auxiliar de Assitência Técnica | 🔌<br> 
-👨🏾‍💻 | Esutudante de Sistemas de Informação | 👨🏾‍💻<br>
+🔌 | Trabalhando como Auxiliar de Assistência Técnica | 🔌<br> 
+👨🏾‍💻 | Estudante de Sistemas de Informação | 👨🏾‍💻<br>
 💾 | Entusiasta de tecnologia | 💾<br>
 💭 | Futuro Dev Full Stack | 💭<br>
 📚 | Estudando novas linguagens | 📚</p>
