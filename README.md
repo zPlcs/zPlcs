@@ -19,12 +19,21 @@
   ##
     
     
-### <p align="center"> 𝗔𝗯𝗼𝘂𝘁 𝗺𝗲! </p>
+### <p align="center"> 𝗔𝗯𝗼𝘂𝘁 𝗺𝗲!    <br> </p>
     
+ 
+    
+<p align="center"> 
+  | Trabalhando como Auxiliar de Assitência Técnica.<br>
+  | Esutudante de Sistemas de Informação.<br>
+  | Entusiasta de tecnologia.<br>
+  | Futuro Dev Full Stack.<br>
+  | Estudando novas linguagens. </p>
+ 
     
   ##
     
-### <p align="center">  𝗠𝘆 𝗦𝘁𝗮𝘁𝘀! </p>
+### <p align="center">  𝗠𝘆 𝗦𝘁𝗮𝘁𝘀!    <br>    <br></p>
     
     
 <div align="center">
