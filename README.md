@@ -1,6 +1,5 @@
-### <p align="center"><img src="https://media.tenor.com/tgzGDcxpjR0AAAAi/patrick-star-sponge-bob-square-pants.gif" width="50px"> 𝐇𝐢! 𝐈 𝐚𝐦 𝐏𝐚𝐭𝐫𝐢𝐤 𝐋𝐮𝐢𝐳 <img src="https://media.tenor.com/tgzGDcxpjR0AAAAi/patrick-star-sponge-bob-square-pants.gif" width="50px"></p>
+### <p align="center"><img src="https://media.tenor.com/tgzGDcxpjR0AAAAi/patrick-star-sponge-bob-square-pants.gif" width="50px"> 𝐇𝐢! 𝐈 𝐚𝐦 𝐏𝐚𝐭𝐫𝐢𝐤 𝐋𝐮𝐢𝐳 <img src="https://media.tenor.com/tgzGDcxpjR0AAAAi/patrick-star-sponge-bob-square-pants.gif" width="50px"><br><br></p>
 
-<br>
 
 <div align="center">
 <img height="250px" src="https://user-images.githubusercontent.com/111705938/218602686-a273f0a9-2abb-44d9-8294-c5ec177f6fc6.png">
@@ -19,9 +18,7 @@
   ##
     
     
-### <p align="center"> 𝗔𝗯𝗼𝘂𝘁 𝗺𝗲!    <br> </p>
-    
- 
+### <p align="center"> 𝗔𝗯𝗼𝘂𝘁 𝗺𝗲! <br><br></p>
     
 <p align="center"> 
 🔌 | Trabalhando como Auxiliar de Assitência Técnica | 🔌<br> 
@@ -33,9 +30,8 @@
     
   ##
     
-### <p align="center">  𝗠𝘆 𝗦𝘁𝗮𝘁𝘀!    <br>    <br></p>
-    
-    
+### <p align="center">  𝗠𝘆 𝗦𝘁𝗮𝘁𝘀! <br><br></p>
+
 <div align="center">
   <a href="https://github.com/zPlcs">
   <img height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=zPlcs&layout=compact&langs_count=7&theme=tokyonight"/> <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zPlcs&layout=compact&langs_count=7&theme=tokyonight"/>
@@ -44,10 +40,9 @@
 
   ##
   
- ### <p align="center"> 𝗸𝗻𝗼𝘄𝗹𝗲𝗱𝗴𝗲 𝗼𝗳 𝗹𝗮𝗻𝗴𝘂𝗮𝗴𝗲𝘀! </p>
+ ### <p align="center"> 𝗸𝗻𝗼𝘄𝗹𝗲𝗱𝗴𝗲 𝗼𝗳 𝗹𝗮𝗻𝗴𝘂𝗮𝗴𝗲𝘀! <br> <br></p>
   
-  <br>
-  <br>
+ 
   <div id="badges" align="center">
   <img src="https://img.shields.io/badge/-JavaScript-FFFB00?style=for-the-badge&logo=javascript&logoColor=black"> 
     <img src="https://img.shields.io/badge/c++-044F88?style=for-the-badge&logo=c%2B%2B&logoColor=white"> 
