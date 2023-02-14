@@ -5,8 +5,15 @@
 <div align="center">
 <img height="250px" src="https://user-images.githubusercontent.com/111705938/218602686-a273f0a9-2abb-44d9-8294-c5ec177f6fc6.png">
   <br>
+  <br>
+  <div id="badges-social">
+  <a href="https://www.linkedin.com/in/patrik-luiz-435a02207/">
+  <img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=LinkedIn">
+  </div>
   
   </div>
+  
+  ##
   
 <div align="center">
   <a href="https://github.com/zPlcs">
