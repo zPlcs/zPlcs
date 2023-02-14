@@ -6,15 +6,22 @@
 <img height="250px" src="https://user-images.githubusercontent.com/111705938/218602686-a273f0a9-2abb-44d9-8294-c5ec177f6fc6.png">
   <br>
   <br>
+  
   <div id="badges-social">
-  <a href="https://www.linkedin.com/in/patrik-luiz-435a02207/">
-  <img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=LinkedIn">
+  <a href="https://www.linkedin.com/in/patrik-luiz-435a02207/"> <img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=LinkedIn">
+    <a href="https://discordapp.com/users/698680180234911826"><img src="https://img.shields.io/badge/-Discord-7289da?style=for-the-badge&logo=discord&logoColor=white">
+      
+ 
   </div>
   
   </div>
   
   ##
   
+    
+### <p align="center">  𝗠𝘆 𝗦𝘁𝗮𝘁𝘀! </p>
+    
+    
 <div align="center">
   <a href="https://github.com/zPlcs">
   <img height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=zPlcs&layout=compact&langs_count=7&theme=tokyonight"/> <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zPlcs&layout=compact&langs_count=7&theme=tokyonight"/>
