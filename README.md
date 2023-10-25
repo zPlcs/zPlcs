@@ -8,8 +8,8 @@
   
   <div id="badges-social">
   <a href="https://www.linkedin.com/in/patrik-luiz-435a02207/"> <img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=LinkedIn">
-    <a href="https://discordapp.com/users/698680180234911826"><img src="https://img.shields.io/badge/-Discord-7289da?style=for-the-badge&logo=discord&logoColor=white">
-      
+    <!-- <a href="https://discordapp.com/users/698680180234911826"><img src="https://img.shields.io/badge/-Discord-7289da?style=for-the-badge&logo=discord&logoColor=white">  -->
+   
  
   </div>
   
@@ -50,7 +50,9 @@
     <img src="https://img.shields.io/badge/-Css3-2965f1?style=for-the-badge&logo=css3&logoColor=white">
     <img src="https://img.shields.io/badge/GitHUB-black?style=for-the-badge&logo=github&logoColor=white"> 
     <img src="https://img.shields.io/badge/-html5-e34c26?style=for-the-badge&logo=html5&logoColor=white">
-  <img src="https://img.shields.io/badge/-JavaScript-FFFB00?style=for-the-badge&logo=javascript&logoColor=black"> 
+    <img src="https://img.shields.io/badge/-JavaScript-FFFB00?style=for-the-badge&logo=javascript&logoColor=black"> 
+    <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=white">
+    <img src="https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white">
 
     
   </div>
