@@ -33,8 +33,8 @@
 ### <p align="center">  𝗠𝘆 𝗦𝘁𝗮𝘁𝘀! <br><br></p>
 
 <div align="center">
-  <a href="https://github.com/zPlcs"/>
-  <img height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=zPlcs&layout=compact&langs_count=7&theme=tokyonight"/> <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zPlcs&layout=compact&langs_count=7&theme=tokyonight"/>
+
+  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=zPlcs&theme=tokyonight" alt="GitHub Streak" /></a> <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zPlcs&layout=compact&langs_count=7&theme=tokyonight"/>
   
 </div>
 
