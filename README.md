@@ -33,7 +33,7 @@
 ### <p align="center">  𝗠𝘆 𝗦𝘁𝗮𝘁𝘀! <br><br></p>
 
 <div align="center">
-  <a href="https://github.com/zPlcs">
+  <a href="https://github.com/zPlcs"/>
   <img height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=zPlcs&layout=compact&langs_count=7&theme=tokyonight"/> <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zPlcs&layout=compact&langs_count=7&theme=tokyonight"/>
   
 </div>
