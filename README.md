@@ -1,4 +1,4 @@
-### <p align="center"><img src="https://media.tenor.com/tgzGDcxpjR0AAAAi/patrick-star-sponge-bob-square-pants.gif" width="50px"> 𝐇𝐢! 𝐈 𝐚𝐦 𝐏𝐚𝐭𝐫𝐢𝐤 𝐋𝐮𝐢𝐳 <img src="https://media.tenor.com/tgzGDcxpjR0AAAAi/patrick-star-sponge-bob-square-pants.gif" width="50px"><br><br></p>
+<p align="center"><img src="https://media.tenor.com/tgzGDcxpjR0AAAAi/patrick-star-sponge-bob-square-pants.gif" width="50px"> 𝐇𝐢! 𝐈 𝐚𝐦 𝐏𝐚𝐭𝐫𝐢𝐤 𝐋𝐮𝐢𝐳 <img src="https://media.tenor.com/tgzGDcxpjR0AAAAi/patrick-star-sponge-bob-square-pants.gif" width="50px"><br><br></p>
 
 
 <div align="center">
