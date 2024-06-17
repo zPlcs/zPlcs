@@ -52,7 +52,7 @@
     <img src="https://img.shields.io/badge/-html5-e34c26?style=for-the-badge&logo=html5&logoColor=white">
     <img src="https://img.shields.io/badge/-JavaScript-FFFB00?style=for-the-badge&logo=javascript&logoColor=black"> 
     <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=white">
-    <img src="https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white">
+    <img src="https://img.https://shields.io/badge/-PHP-3776AB?style=flat&logo=php>
 
     
   </div>
