@@ -34,7 +34,7 @@
 
 <div align="center">
 
-  <a href="https://git.io/streak-stats"><img height="160em" src="https://streak-stats.demolab.com?user=zPlcs&theme=tokyonight" alt="GitHub Streak" /></a> <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zPlcs&layout=compact&langs_count=7&theme=tokyonight"/>
+ <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zPlcs&layout=compact&langs_count=7&theme=tokyonight"/>
   
 </div>
 
