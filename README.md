@@ -7,7 +7,7 @@
   <br>
   
   <div id="badges-social">
-  <a href="https://www.linkedin.com/in/patrik-luiz-435a02207/"> <img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=LinkedIn">
+  <a href="https://www.linkedin.com/in/patrik-luiz-silva-435a02207/"> <img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=LinkedIn">
     <!-- <a href="https://discordapp.com/users/698680180234911826"><img src="https://img.shields.io/badge/-Discord-7289da?style=for-the-badge&logo=discord&logoColor=white">  -->
    
  
