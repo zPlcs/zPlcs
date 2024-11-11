@@ -33,8 +33,8 @@
 ### <p align="center">  𝗠𝘆 𝗦𝘁𝗮𝘁𝘀! <br><br></p>
 
 <div align="center">
-
- <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zPlcs&layout=compact&langs_count=7&theme=tokyonight"/>
+  
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zplcs&layout=compact&langs_count=7&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
   
 </div>
 
