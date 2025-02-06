@@ -54,6 +54,7 @@
     <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=white">
     <img src="https://img.shields.io/badge/Figma-ff7262?style=for-the-badge&logo=figma&logoColor=white">
     <img src="https://img.shields.io/badge/PHP-474A8A?style=for-the-badge&logo=php&logoColor=white">
+    <img src="https://img.shields.io/badge/MySQL-f29111?style=for-the-badge&logo=mysql&logoColor=white">
 
     
   </div>
