@@ -50,10 +50,9 @@
     <img src="https://img.shields.io/badge/-Css3-2965f1?style=for-the-badge&logo=css3&logoColor=white">
     <img src="https://img.shields.io/badge/GitHUB-black?style=for-the-badge&logo=github&logoColor=white"> 
     <img src="https://img.shields.io/badge/-html5-e34c26?style=for-the-badge&logo=html5&logoColor=white">
-    <img src="https://img.shields.io/badge/-JavaScript-FFFB00?style=for-the-badge&logo=javascript&logoColor=black"> 
+    <img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=white">
     <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=white">
     <img src="https://img.shields.io/badge/Figma-ff7262?style=for-the-badge&logo=figma&logoColor=white">
-    <img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=white">
     <img src="https://img.shields.io/badge/PHP-474A8A?style=for-the-badge&logo=php&logoColor=white">
 
     
