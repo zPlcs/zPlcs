@@ -7,7 +7,7 @@
   <br>
   
   <div id="badges-social">
-  <a href="https://www.linkedin.com/in/patrik-luiz-silva-435a02207/"> <img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=LinkedIn">
+  <a href="https://www.linkedin.com/in/patrik-luiz-silva-435a02207/"> <img src="https://img.shields.io/badge/-LinkedIn-000000?style=for-the-badge&logo=LinkedIn">
     <!-- <a href="https://discordapp.com/users/698680180234911826"><img src="https://img.shields.io/badge/-Discord-7289da?style=for-the-badge&logo=discord&logoColor=white">  -->
    
  
@@ -44,17 +44,17 @@
   
  
   <div id="badges" align="center">
-    <img src="https://img.shields.io/badge/c++-044F88?style=for-the-badge&logo=c%2B%2B&logoColor=white"> 
-    <img src="https://img.shields.io/badge/-C-6758FE?style=for-the-badge&logo=C&logoColor=white">
-    <img src="https://img.shields.io/badge/-CSharp-A179DC?style=for-the-badge&logo=cSHARP&logoColor=white"> 
-    <img src="https://img.shields.io/badge/-Css3-2965f1?style=for-the-badge&logo=css3&logoColor=white">
-    <img src="https://img.shields.io/badge/GitHUB-black?style=for-the-badge&logo=github&logoColor=white"> 
-    <img src="https://img.shields.io/badge/-html5-e34c26?style=for-the-badge&logo=html5&logoColor=white">
+    <img src="https://img.shields.io/badge/c++-000000?style=for-the-badge&logo=c%2B%2B&logoColor=white"> 
+    <img src="https://img.shields.io/badge/-C-000000?style=for-the-badge&logo=C&logoColor=white">
+    <img src="https://img.shields.io/badge/-CSharp-000000?style=for-the-badge&logo=cSHARP&logoColor=white"> 
+    <img src="https://img.shields.io/badge/-Css3-000000?style=for-the-badge&logo=css3&logoColor=white">
+    <img src="https://img.shields.io/badge/GitHUB-000000?style=for-the-badge&logo=github&logoColor=white"> 
+    <img src="https://img.shields.io/badge/-html5-000000?style=for-the-badge&logo=html5&logoColor=white">
     <img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=white">
-    <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=white">
-    <img src="https://img.shields.io/badge/Figma-ff7262?style=for-the-badge&logo=figma&logoColor=white">
-    <img src="https://img.shields.io/badge/PHP-474A8A?style=for-the-badge&logo=php&logoColor=white">
-    <img src="https://img.shields.io/badge/MySQL-f29111?style=for-the-badge&logo=mysql&logoColor=white">
+    <img src="https://img.shields.io/badge/python-000000?style=for-the-badge&logo=python&logoColor=white">
+    <img src="https://img.shields.io/badge/Figma-000000?style=for-the-badge&logo=figma&logoColor=white">
+    <img src="https://img.shields.io/badge/PHP-000000?style=for-the-badge&logo=php&logoColor=white">
+    <img src="https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=mysql&logoColor=white">
 
     
   </div>
