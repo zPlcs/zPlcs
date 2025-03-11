@@ -55,6 +55,6 @@
     <img src="https://img.shields.io/badge/Figma-000000?style=for-the-badge&logo=figma&logoColor=white">
     <img src="https://img.shields.io/badge/PHP-000000?style=for-the-badge&logo=php&logoColor=white">
     <img src="https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=mysql&logoColor=white">
-
+    <img src="https://img.shields.io/badge/React%20Native-000000?style=for-the-badge&logo=react&logoColor=white">
     
   </div>
